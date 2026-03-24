@@ -15,9 +15,14 @@ The dataset contains information on:
 - Order Dates
 
 Key KPIs
-- Total Sales
-- Total Profit
-- Profit Margin
+- Total Sales = SUM(Sales)
+- Total Profit = SUM(Profit)
+- Profit Margin = DIVIDE(SUM(Profit), SUM(Sales))
+- Previous Month Sales = 
+CALCULATE([Total Sales], DATEADD('Table'[Order Date], -1, MONTH))
+- MoM Growth = 
+DIVIDE([Total Sales] - [Previous Month Sales], [Previous Month Sales])
+
 🔹 Key Business Questions
 - Which category generates the highest profit?
 - Which region is underperforming?
