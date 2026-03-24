@@ -23,13 +23,13 @@ CALCULATE([Total Sales], DATEADD('Table'[Order Date], -1, MONTH))
 - MoM Growth = 
 DIVIDE([Total Sales] - [Previous Month Sales], [Previous Month Sales])
 
-🔹 Key Business Questions
+Key Business Questions
 - Which category generates the highest profit?
 - Which region is underperforming?
 - How do sales change over time?
 - Which products are loss-making?
 - Who are the top profitable customers?
-🔹 Insights (THIS IS YOUR WEAPON 🔥)
+Insights 
 - Technology category contributes the highest profit.
 - Central region shows the lowest profitability.
 - Several products generate negative profit, indicating pricing or discount issues.
