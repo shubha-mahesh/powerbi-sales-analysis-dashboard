@@ -29,6 +29,8 @@ Key Business Questions
 - How do sales change over time?
 - Which products are loss-making?
 - Who are the top profitable customers?
+
+
 Insights 
 - Technology category contributes the highest profit.
 - Central region shows the lowest profitability.
