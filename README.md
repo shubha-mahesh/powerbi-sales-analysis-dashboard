@@ -32,13 +32,19 @@ Key Business Questions
 
 
 Insights 
-- Technology category contributes the highest profit.
-- Central region shows the lowest profitability.
-- Several products generate negative profit, indicating pricing or discount issues.
-- High sales do not always result in high profit.
-- A small set of customers contributes significantly to profit.
+- Technology category drives the highest profit.
+- Central region underperforms compared to others.
+- Several products generate significant losses, with a few contributing disproportionately.
+- Some high-sales products are loss-making, indicating pricing or discount inefficiencies.
+- Customer profitability varies significantly, with some customers contributing negatively.
+- Sales peak during mid-year (july-Q3), suggesting seasonality.
 
 
+Business Impact
+
+- Identified key loss drivers to improve profitability.
+- Highlighted high-value customers for retention strategies.
+- Provided insights into seasonal sales trends for better planning.
 
 🔹 Tools Used
 - Power BI
